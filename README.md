@@ -3,7 +3,7 @@
 A scalable and well-structured **RESTful API** for an e-commerce platform, built using **NestJS**, **TypeScript**, and **MongoDB**.  
 This backend provides endpoints for user authentication, product management, shopping cart, orders, and admin functionalities.
 
----
+----
 
 ## 🧰 Tech Stack
 
